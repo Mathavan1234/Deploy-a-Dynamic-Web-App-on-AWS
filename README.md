@@ -1,4 +1,4 @@
-![Alt text](/Host_a_Dynamic-Web_App_on_AWS.png)
+![Alt text](/Host_a_Dynamic_Web_App_on_AWS.png)
 
 # AWS 3-Tier Web Application Deployment
 
