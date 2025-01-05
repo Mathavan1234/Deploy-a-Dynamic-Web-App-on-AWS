@@ -1,3 +1,5 @@
+![Alt text](/Host_a_Dynamic-Web_App_on_AWS.png)
+
 # AWS 3-Tier Web Application Deployment
 
 This repository provides a comprehensive guide for deploying a dynamic web application on AWS using a 3-tier architecture. The solution leverages AWS services such as EC2, S3, RDS, and an Application Load Balancer to address the challenges of scalability, high availability, and secure data management for dynamic web applications.
